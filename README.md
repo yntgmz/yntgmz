@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yanet Gomez
 - 👀 I am seeking a position as a Data Analyst
-- 🌱 I recently graduated from with a Master of Science in Data Analytics from the University of Houston Downtown
+- 🌱 I recently graduated with a Master of Science in Data Analytics from the University of Houston Downtown
 - 💞️ I’m interested in Consumer Behavior and Environmental Science
 - 📫 I can be reached at: yntgmz@yahoo.com
 
