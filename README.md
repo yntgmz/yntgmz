@@ -8,3 +8,10 @@
 yntgmz/yntgmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+Some of my projects from School: 
+https://yntgmz.github.io/House_Prices_Project_Book/
+
+
+More to come soon in 2025!
