@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yanet Gomez.
 - 👀 I am a data analyst in Houston, TX.
 - 🌱 I graduated with a Master of Science in Data Analytics from the University of Houston Downtown (May 2021).
-- 💞️ I love to tell data stories through visualizations. I am interested in Environmental Research, and have experience in with health data, DOD, and Oil and Gas. 
+- 💞️ I love to tell data stories through visualizations. I am interested in environmental research, and have experience in with health data, DOD, and Oil and Gas. 
 - 📫 I can be reached at: yntgmz@yahoo.com
 
 <!---
